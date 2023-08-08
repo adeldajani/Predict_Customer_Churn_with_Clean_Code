@@ -16,7 +16,9 @@ To run the code you will need to follow the teps below:
 3.Activate the conda environment
 
 4.Install the linter and auto-formatter:
+    
     a.pip install pylint
+    
     b.pip install autopep8
 
 5.Run: 
@@ -27,10 +29,8 @@ To run the code you will need to follow the teps below:
     a.pylint churn_library.py
     b.pylint churn_script_logging_and_tests.py
 
-7.To assist with meeting pep 8 guidelines, use autopep8 via the command line commands below:
-
+7.To assist with meeting pep 8 guidelines, use autopep8 via the command line commands below:__
     a.autopep8 --in-place --aggressive --aggressive churn_script_logging_and_tests.py
-    
     b.autopep8 --in-place --aggressive --aggressive churn_library.py
 
 
