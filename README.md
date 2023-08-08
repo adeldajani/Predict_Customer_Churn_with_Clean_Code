@@ -22,11 +22,15 @@ To run the code you will need to follow the teps below:
     b.pip install autopep8
 
 5.Run: 
+    
     a.python churn_library.py
+    
     b.python_script_logging_and_tests.py
 
 6.check the pylint score using the below:
+    
     a.pylint churn_library.py
+    
     b.pylint churn_script_logging_and_tests.py
 
 7.To assist with meeting pep 8 guidelines, use autopep8 via the command line commands below:__
