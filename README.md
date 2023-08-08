@@ -33,8 +33,10 @@ To run the code you will need to follow the teps below:
     
     b.pylint churn_script_logging_and_tests.py
 
-7.To assist with meeting pep 8 guidelines, use autopep8 via the command line commands below:__
+7.To assist with meeting pep 8 guidelines, use autopep8 via the command line commands below:
+
     a.autopep8 --in-place --aggressive --aggressive churn_script_logging_and_tests.py
+    
     b.autopep8 --in-place --aggressive --aggressive churn_library.py
 
 
